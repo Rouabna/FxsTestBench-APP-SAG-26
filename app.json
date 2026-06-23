@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "FXS Test Bench",
+    "slug": "fxs-test-bench",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0e17"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "sdkVersion": "54.0.0",
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
