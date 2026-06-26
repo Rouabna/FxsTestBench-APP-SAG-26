@@ -128,7 +128,7 @@ export default function SettingsScreen({ connected, data }) {
           Banc de Test FXS — Supervision industrielle pour le test de passerelles FXS Sagemcom.
         </Text>
         <View style={[styles.divider, { backgroundColor: colors.borderColor }]} />
-        <Text style={[styles.aboutSub, { color: colors.textMuted }]}>PFE 2026 | Supervision Industrielle</Text>
+        <Text style={[styles.aboutSub, { color: colors.textMuted }]}>PFE 2026 | Roua Bna | Supervision Industrielle</Text>
         <Text style={[styles.aboutSub, { color: colors.magenta, marginTop: 4 }]}>Sagemcom</Text>
       </Card>
 
